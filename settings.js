@@ -21,8 +21,8 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['6281250365581']
 global.premium = ['628998735516','6281250365581']
-global.ownernomer = '6281250365581','6281250365581'
-global.ownername = '🐦Renz Ganteng'
+global.ownernomer = ['6281250365581','6281250365581']
+global.ownername = 'Renz Ganteng'
 global.botname = 'Renz-Botz'
 global.footer = '©Renz.'
 global.ig = 'https://www.instagram.com/rendyseptiadii'
